@@ -24,13 +24,7 @@
 
 ### **James Longstreet**
 - Warned Lee against attacking strong Union positions  
-- His advice proved correct  
-
----
-
-## Image
-![Robert E. Lee](https://upload.wikimedia.org/wikipedia/commons/2/2f/Robert_E._Lee_in_1863.jpg)
-
+- His advice proved correct 
 ---
 
 [Back to Overview](battle_overview.md)  
