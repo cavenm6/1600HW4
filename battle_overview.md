@@ -1,6 +1,6 @@
-# 🏞️ Overview of the Battle of Gettysburg
+# Overview of the Battle of Gettysburg
 
-[⬅ Back to Home](README.md) | [➡ Next: Key Figures](key_figures.md)
+[Back to Home](README.md) | [Next: Key Figures](key_figures.md)
 
 ---
 
