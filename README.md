@@ -15,8 +15,6 @@ Welcome to my GitHub project on **The Battle of Gettysburg**, one of the definin
 
 The **Battle of Gettysburg**, fought July 1–3, 1863, was the largest battle ever fought on American soil. It marked a turning point in the Civil War, ending Robert E. Lee’s second invasion of the North.
 
-![Gettysburg Battlefield](https://upload.wikimedia.org/wikipedia/commons/1/16/Gettysburg_Cyclorama_--_Pickett%27s_Charge.jpg)
-
 ---
 
 ## Quick Facts
